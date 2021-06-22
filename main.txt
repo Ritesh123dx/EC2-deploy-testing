@@ -1,0 +1,33 @@
+
+
+d ->1->2->3->4->Null
+    head = 1
+
+dummy = Node(-1)
+
+dummy.next = head
+
+prev = dummy
+curr = head
+
+d  <-   1  ->   2
+              curr
+        prev
+
+prev  curr next
+
+1. Point curr to prev
+2. Point prev to curr
+3. Point curr to nt
+
+
+
+while curr.next != None:
+
+
+
+Exp = A + B'C(A + A') + A'C
+      
+
+Nand = (A.B)' = A' + B'
+
