@@ -31,3 +31,7 @@ Exp = A + B'C(A + A') + A'C
 
 Nand = (A.B)' = A' + B'
 
+
+
+Made changes here
+
